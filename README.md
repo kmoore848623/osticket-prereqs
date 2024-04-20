@@ -21,32 +21,38 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Microsoft Azure
-- Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs
+- Windows 10 Virtual Machine (VM) with 4 Virtual CPUs
 - osTicket Installation Files
 
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h3>Step 1: Create an Azure Virtual Machine (Windows 10 with 4 CPUs)</h3>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![Screenshot 2024-04-20 060710](https://github.com/kmoore848623/osticket-prereqs/assets/157086384/84dc2a56-ef25-4c7e-8e8e-6663e6b1c654)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+- Go [here](https://portal.azure.com/) and click on 'Resource groups' underneath Azure Services.
+
+![Screenshot 2024-04-20 060936](https://github.com/kmoore848623/osticket-prereqs/assets/157086384/6e2dca3c-f137-46a2-bcab-477272fc254e)
+
+- Click 'Create'.
+
+![Screenshot 2024-04-20 061303](https://github.com/kmoore848623/osticket-prereqs/assets/157086384/f7551b32-16ba-45da-a487-d6c4dc2213ae)
+
+- Under Project details, name your Resource group.
+- Under Resource details, select your preferred region.
+- Click 'Review + Create' at the bottom left of your screen.
+
+![Screenshot 2024-04-20 061703](https://github.com/kmoore848623/osticket-prereqs/assets/157086384/ce98924e-930f-4564-8de8-16929274c726)
+
+- Click 'Create' to create your resource group.
+
+
+
+
+
+
+
+
+
+
