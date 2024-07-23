@@ -46,9 +46,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Collapse 'Application Development Features' and expand 'Common HTTP Features'. Enable all of the features underneath and press 'OK' to apply changes.
 
 
-![os1](https://github.com/user-attachments/assets/8f894229-465c-46ef-96f9-a0241ef86ad8)
+<div align="center"><img src="https://github.com/user-attachments/assets/8f894229-465c-46ef-96f9-a0241ef86ad8"></div>
 
-![os2](https://github.com/user-attachments/assets/e6cac2e8-8a62-4e54-b528-fdbeaa46a855)
+<div align="center"><img src="https://github.com/user-attachments/assets/e6cac2e8-8a62-4e54-b528-fdbeaa46a855"></div>
 
 
 
@@ -83,7 +83,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Browse to the C:\PHP directory, select 'php-cgi' executable, and press OK.
 - Click on the name of your server on the left hand side to go back. Then click 'Restart' on the right hand side to restart the server.
 
-![os3](https://github.com/user-attachments/assets/c4ea48b6-e9f8-4d02-b667-f56b2f173236)
+<div align="center"><img src="https://github.com/user-attachments/assets/c4ea48b6-e9f8-4d02-b667-f56b2f173236"></div>
 
 <h3>Step 11: Install osTicket v1.15.8</h3>
 
@@ -93,7 +93,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - In IIS, look to the top left corner and go 'Sites'-> 'Default web Site' -> 'osTicket'.
 - On the right, click 'Browse *:80'. This will bring up osTicket setup in your web browser.
 
-![os4](https://github.com/user-attachments/assets/85e2301f-ddb7-4998-b0a1-43e21ee211e8)
+<div align="center"><img src="https://github.com/user-attachments/assets/85e2301f-ddb7-4998-b0a1-43e21ee211e8)"></div>
 
 <h3>Step 12: Enable Extensions in IIS</h3>
 
@@ -116,11 +116,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Select 'Add' -> select 'Principal' -> type in 'everyone' > select 'Check Names' > select OK.
 - Under 'Basic Permissions' click the box for 'Full control' and click 'OK' to apply.
 
-![os5](https://github.com/user-attachments/assets/9ebf7796-12e2-408d-bcce-5a96777ff3ec)
+<div align="center"><img src="https://github.com/user-attachments/assets/9ebf7796-12e2-408d-bcce-5a96777ff3ec)"></div>
 
-![os6](https://github.com/user-attachments/assets/120510c9-48d6-4f8e-b0b7-0662f6619823)
+<div align="center"><img src="https://github.com/user-attachments/assets/120510c9-48d6-4f8e-b0b7-0662f6619823"></div>
 
-![os7](https://github.com/user-attachments/assets/3a9828e5-9b79-460d-9588-43b73567a780)
+<div align="center"><img src="https://github.com/user-attachments/assets/3a9828e5-9b79-460d-9588-43b73567a780"></div>
 
 <h3>Step 14: Continue setting up osTicket in Browser</h3>
 
@@ -133,7 +133,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Username: select a username 
   - Password: select a passowrd
  
-![os8](https://github.com/user-attachments/assets/25a61db1-57ad-4607-a268-e2097e0d111c)
+<div align="center"><img src="https://github.com/user-attachments/assets/25a61db1-57ad-4607-a268-e2097e0d111c"></div>
 
 <h3>Step 15: Install HeidiSQL from the installation files.</h3>
 
@@ -144,8 +144,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - On the left hand side, right-click 'Unnamed' -> select 'Create New' -> 'Database'
 - Name it osTicket and select 'OK'.
 
-![os9](https://github.com/user-attachments/assets/d86eb6c4-ff45-4cac-a51b-758be3763b98)
-![os10](https://github.com/user-attachments/assets/44687039-3b7f-43a1-a8c1-d74f99f5d0eb)
+<div align="center"><img src="https://github.com/user-attachments/assets/d86eb6c4-ff45-4cac-a51b-758be3763b98"></div>
+<div align="center"><img src="https://github.com/user-attachments/assets/44687039-3b7f-43a1-a8c1-d74f99f5d0eb"></div>
 
 <h3>Step 16: Continue setting up osTicket in Browser</h3>
 
@@ -155,7 +155,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 	- MySQL Password: the password you selected when setting up MySQL
 	- Click 'Install Now'.
 
-![os11](https://github.com/user-attachments/assets/b1fc524f-7462-4e9e-8f13-d29219b897ed)
+<div align="center"><img src="https://github.com/user-attachments/assets/b1fc524f-7462-4e9e-8f13-d29219b897ed"></div>
 
 Congratulations! You have sucessfully installed osTicket and all of its pre-requisite files!
 
