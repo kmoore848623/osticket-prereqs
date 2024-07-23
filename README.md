@@ -163,8 +163,8 @@ Congratulations! You have sucessfully installed osTicket and all of its pre-requ
 <h3>Step 17: Post-Installation Cleanup</h3>
 
 - Go to C: > inetpub > wwwroot > osTicket > Setup
-    - Delete the contents in the Setup folder
-    - Afterwards, delete the Setup folder
+    - Delete the contents in the Setup folder, then delete the folder.
+      
 - Go to C: -> Inetpub -> wwwroot -> osTicket -> Include
     - Right-click on 'ost-config.php'. 
     - Select 'Securities' > 'Advanced' > Click on "everyone" > edit to change permissions
