@@ -29,15 +29,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h3> Step 1: Create an Azure Virtual Machine (Windows 10 with 4 CPUs)</h3>
 
-- Go [here](https://portal.azure.com/)
+- Go [here](https://portal.azure.com/).
 
 <h3> Step 2: Installation Files</h3>
 
-- Go [here](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+- Go [here](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) and download the installation files.
 
 - These files will be needed to install osTicket and some dependencies.
 
-<h3>Step 3: Install / Enable IIS in Windows WITH CGI and Common HTTP Features</h3>
+<h3>Step 3: Install / Enable IIS in Windows WITH CGI and Common HTTP Features and IIS Management Console</h3>
 
 - Right-click Windows logo in the bottom left hand corner and select 'Run'. Type 'control' and press 'OK'.
 - Click 'Programs' and select 'Turn Windows features on or off'.
@@ -53,8 +53,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-<h3>Step 3: Download, Install, and Open the Web Platform Installer
+<h3>Step 4: Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from the installation files.
 </h3>
+
+<h3>Step 5: Install the Rewrite Module (rewrite_amd64_en-US.msi) from the installation files.
+</h3>
+
+<h3>Step 6: Create the directory C:\PHP.
+</h3>
+
+<h3>Step 7: Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) from the installation files and unzip the contents into C:\PHP.
+</h3>
+
+<h3>Step 8: Install VC_redist.x86.exe from the installation files.
+</h3>
+
+<h3>Step 9: Install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the installation files.</h3>
+
+- Select Typical setup.
+
 
 - osTicket Installation Files [link](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 	- Download Web Platform Installer > select Download Anyway > at the top right, select Open File
