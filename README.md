@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h3> Step 1: Create an Azure Virtual Machine (Windows 10 with 4 CPUs)</h3>
 
-- Go [here](https://portal.azure.com/).
+- Go [here](https://portal.azure.com/). I've created a tutorial that you can follow [here](https://github.com/kmoore848623/Azure-VM).
 
 <h3> Step 2: Installation Files</h3>
 
