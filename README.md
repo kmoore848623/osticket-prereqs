@@ -30,7 +30,7 @@ This walkthrough provides step-by-step instructions to install the open-source h
 
 ---
 
-## 🛠️ Installation Steps
+## 🛠️ Deployment Steps
 
 ### ☁️ Step 1: Create an Azure Virtual Machine (Windows 10, 4 CPUs)
 
